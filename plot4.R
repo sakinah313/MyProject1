@@ -1,5 +1,4 @@
-##PLOT 3
-##Histogram for Global Actice Power 
+##PLOT 4
 ##Save the plot to a PNG file with 
 #     a width of 480 pixels and a height of 480 pixels.
 
